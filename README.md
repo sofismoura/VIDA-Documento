@@ -20,5 +20,12 @@
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## 📚 Documentação da API
+
+- Arquivo Swagger: [swagger.json](./swagger.json)
+
+Você pode visualizar esse arquivo no site [Swagger Editor](https://editor.swagger.io/):
+1. Acesse o link.
+2. Clique em “File” > “Import File”.
+3. Faça upload do arquivo `swagger.json` deste repositório.
 
